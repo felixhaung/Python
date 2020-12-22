@@ -1,0 +1,10 @@
+\\t3nas06-b\markingmap\Align die set up image
+\\10.185.64.146\dpsme
+\\t3nas06-b\markingmap\att_sharing
+
+ftp://10.185.75.111
+dps
+035982000
+
+
+

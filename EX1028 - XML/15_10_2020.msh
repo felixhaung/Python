@@ -1,0 +1,1791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<messages>
+  <message type="machine">
+    <time>10/15/2020 12:12:42 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:13:39 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:23:41 AM</time>
+    <messageString>V02 88d3001c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:29:11 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:29:40 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:30:15 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:30:58 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:31:06 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:31:48 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:32:25 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:51:14 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:53:30 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:54:01 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:54:21 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:54:55 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:55:28 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:58:28 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:59:31 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:59:37 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:59:44 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:01:24 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:02:14 AM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:02:14 AM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:03:17 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YK5-25C0 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:03:38 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-395.929, Y=-71.201 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:04:29 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-396.705, Y=69.046 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:04:35 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-366.411, Y=86.067 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:04:40 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:05:44 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:05:54 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:06:07 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:43:34 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000222 00000220 00000003 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:43:42 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000223 00000220 00000004 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:07:16 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:13:30 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:22:44 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:22:52 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000222 00000220 00000003 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:23:06 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:31:03 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(2506) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:31:09 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:31:09 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:33:40 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000224 00000220 00000005 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(3082) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:39:16 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:42:54 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(5819) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:44:58 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(6395) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:45:44 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(6397) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:51:48 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:51:51 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:51:56 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:53:32 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:54:11 AM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:54:11 AM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:55:17 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-14G2 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:55:41 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-397.461, Y=-71.526 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:56:00 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.890, Y=68.277 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:56:07 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.365, Y=84.727 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:56:42 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:56:52 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000226 00000220 00000007 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:17:44 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:21:42 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:21:55 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:22:23 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:22:36 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:25:10 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:25:23 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:35:54 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000221 00000220 00000002 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:02 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000222 00000220 00000003 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:26 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:53:50 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:54:09 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:54:20 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000221 00000220 00000002 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:54:39 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:54:54 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:55:27 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:55:46 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:55:55 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:16:27 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000221 00000220 00000002 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:16:35 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000222 00000220 00000003 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:16:46 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:32:07 AM</time>
+    <messageString>V02 88d9000f 00000000 1 00000221 00000220 00000002 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:32:19 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:42:50 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000221 00000220 00000002 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:43:29 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:43:33 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:43:53 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000220 00000220 00000001 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:45:11 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000221 00000220 00000002 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:45:32 AM</time>
+    <messageString>V02 48cb0001 00000000 1 00000224 00000220 00000005 Wafertable.DieEjector</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:46:01 AM</time>
+    <messageString>V02 88d0001d 00000000 1 00000226 00000220 00000008 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:46:01 AM</time>
+    <messageString>V02 88040005 00000000 1 00000227 00000220 00000008 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:47:01 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-15F5 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:47:23 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-397.152, Y=-70.837 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:48:03 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.985, Y=68.905 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:48:12 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.539, Y=85.444 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:48:47 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:48:56 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000225 00000220 00000006 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:50:18 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:50:42 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:51:14 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:54:09 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:25:42 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:31:08 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:31:18 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:31:47 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:31:47 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:43:14 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:43:55 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:50:56 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:51:50 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:06:05 AM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 PostPlace 1 14 all inspection Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:06:44 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:08:02 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:08:31 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:08:57 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:09:19 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:10:00 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:10:26 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:11:12 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:11:43 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:12:23 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:12:55 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 9 Postplace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:13:22 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:15:08 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:15:43 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:16:30 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:17:20 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 16 PocketNo.(10236) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:17:49 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 16 PocketNo.(10239) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:18:37 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 16 PocketNo.(10240) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:19:32 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:20:55 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:25:49 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:26:47 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:27:24 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:28:57 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:29:05 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:30:26 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:31:27 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:41:49 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:42:15 AM</time>
+    <messageString>V02 88d90033 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:42:38 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:44:19 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:48:54 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:59:51 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:00:16 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:01:30 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000223 00000220 00000004 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:02:01 AM</time>
+    <messageString>V02 88d0001d 00000000 1 00000226 00000220 00000008 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:02:01 AM</time>
+    <messageString>V02 88040005 00000000 1 00000227 00000220 00000008 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:05:13 AM</time>
+    <messageString>V02 88d0001c 00000000 1 00000220 00000220 00000001 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:06:11 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-16F0 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:06:34 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-397.355, Y=-71.601 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:06:50 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.956, Y=68.260 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:07:19 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.444, Y=84.794 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:07:27 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:08:09 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:08:50 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:10:50 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:11:00 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:12:11 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:22:46 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:23:23 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 9 Postplace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:24:16 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:25:29 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 9 PostPlace 1 26 Die surface Check: SURFACE Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:39:34 AM</time>
+    <messageString>V02 88020034 00000000 1 00000220 00000220 00000001 Indexer.IndexerUnitXYR.AxisX</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:04:41 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:06:30 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:06:34 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000221 00000220 00000002 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:07:24 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:08:48 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:09:03 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:09:27 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:09:33 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000221 00000220 00000002 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:10:05 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:14:05 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:14:31 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:15:06 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:15:50 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:16:25 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:17:01 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:17:27 AM</time>
+    <messageString>V02 88d90033 00000000 1 00000220 00000220 00000001 0 9 Postplace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:18:02 AM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:18:55 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:19:27 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:30:37 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:41:09 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:41:09 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:00:09 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:00:17 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000222 00000220 00000003 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:09:27 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 20 Die Position: BOXPOS 2 15 PocketNo.(2887) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:26:09 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:26:22 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:26:26 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:27:57 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:30:12 AM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:30:12 AM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:31:44 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-17E3 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:32:04 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-395.879, Y=-70.103 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:32:25 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-397.355, Y=69.723 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:32:33 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-367.335, Y=87.022 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:33:08 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:33:18 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000226 00000220 00000007 0 12 AfterSealing 1 27 Empty Pocket Check: OBJMEAS 2 12 PocketNo.(1) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:35:49 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:43:20 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:14:10 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:14:43 AM</time>
+    <messageString>V02 88d9002e 00000000 1 00000221 00000220 00000002 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:15:38 AM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Cover Tape Position: BOXPOS 2 14 PocketNo.(291) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:32:32 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:33:02 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:46:00 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:46:49 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:47:13 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:55:18 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:59:44 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:12:43 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:21:45 AM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:22:01 AM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:22:05 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:23:46 AM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:25:41 AM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-18D6 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:26:02 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-395.902, Y=-69.922 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:26:20 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-397.756, Y=70.150 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:26:30 AM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-367.781, Y=87.574 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:27:06 AM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:37:28 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000226 00000220 00000007 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:37:45 AM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:40:08 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:40:37 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:41:20 AM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:41:28 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:41:28 AM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:03:21 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:03:52 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:05:33 PM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Cover Tape Position: BOXPOS 2 16 PocketNo.(10957) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:05:54 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:06:31 PM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 27 Cover Tape Position: BOXPOS 2 16 PocketNo.(10958) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:07:33 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:08:01 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:08:26 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:08:54 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:09:46 PM</time>
+    <messageString>V02 88d90025 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:03 PM</time>
+    <messageString>V02 88d90025 00000000 1 00000222 00000220 00000004 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:03 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:26 PM</time>
+    <messageString>V02 88d90025 00000000 1 00000226 00000220 00000008 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:26 PM</time>
+    <messageString>V02 88040005 00000000 1 00000227 00000220 00000008 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:31 PM</time>
+    <messageString>V02 88d90025 00000000 1 0000022a 00000220 0000000c Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:10:31 PM</time>
+    <messageString>V02 88040005 00000000 1 0000022b 00000220 0000000c Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:14:57 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:20:06 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000222 00000220 00000006 0 15 WaferInspection 1 20 Die Position: BOXPOS Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:20:06 PM</time>
+    <messageString>V02 88d1002a 00000000 1 00000223 00000220 00000006 0 15 WaferInspection 1 14 all inspection Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:20:06 PM</time>
+    <messageString>V02 88d00006 00000000 1 00000224 00000220 00000006 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:20:07 PM</time>
+    <messageString>V02 88d90012 00000000 1 00000225 00000220 00000006 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:21:12 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-18D6 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:21:21 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-395.934, Y=-69.953 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:21:51 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-397.742, Y=70.202 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:22:00 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 97 MoveToFirstGoodDie, first good die found at (col,row)=(111,108), position at X=-393.171, Y=11.147 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:25:31 PM</time>
+    <messageString>V02 88d9000f 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:43:52 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 DieOnTool 1 14 all inspection PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 12:55:23 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:00:43 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000222 00000220 00000003 0 9 DieOnTool 1 14 all inspection PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:20:25 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:21:34 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:22:01 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:22:06 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:22:36 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:23:02 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:24:35 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:25:00 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:25:00 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:26:18 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000220 00000220 00000001 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:26:46 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000220 00000220 00000001 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:29:38 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000222 00000220 00000004 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:29:38 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:30:34 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000226 00000220 00000007 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:30:35 PM</time>
+    <messageString>V02 88040005 00000000 1 00000227 00000220 00000008 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:30:50 PM</time>
+    <messageString>V02 88d0001c 00000000 1 0000022a 00000220 0000000c Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:30:50 PM</time>
+    <messageString>V02 88040005 00000000 1 0000022b 00000220 0000000c Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:31:21 PM</time>
+    <messageString>V02 88d0001c 00000000 1 0000022e 00000220 0000000f Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:31:22 PM</time>
+    <messageString>V02 88040005 00000000 1 0000022f 00000220 00000010 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:31:49 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000232 00000220 00000014 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:31:49 PM</time>
+    <messageString>V02 88040005 00000000 1 00000233 00000220 00000014 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:32:08 PM</time>
+    <messageString>V02 880202cd 00000000 1 00000236 00000220 00000017 Wafertable.ExpansionDrive</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:32:16 PM</time>
+    <messageString>V02 88040005 00000000 1 00000238 00000220 00000019 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:33:33 PM</time>
+    <messageString>V02 88030122 00000000 1 0000023a 00000220 0000001c Wafertable.ExpansionDrive.AxisR</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:33:33 PM</time>
+    <messageString>V02 88040005 00000000 1 0000023b 00000220 0000001c Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:35:00 PM</time>
+    <messageString>V02 09f70002 00000000 1 0000023e 00000220 0000001f 0 11 F05YU5-19D1 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:35:09 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000240 00000220 00000021 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-396.506, Y=-70.819 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:35:24 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000241 00000220 00000022 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.399, Y=68.988 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:35:30 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000242 00000220 00000023 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-364.968, Y=85.552 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:35:45 PM</time>
+    <messageString>V02 88020034 00000000 1 00000220 00000220 00000001 PlaceWheel.ZForcePick.AxisZ</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:38:35 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 1:59:26 PM</time>
+    <messageString>V02 88020034 00000000 1 00000220 00000220 00000001 Indexer.IndexerUnitXYR.AxisX</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:05:40 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:06:04 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:06:31 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:10:22 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:18:50 PM</time>
+    <messageString>V02 88d3001c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:23:03 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:25:30 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:32:00 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 PostPlace 1 14 all inspection Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:32:35 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:53:06 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 PostPlace 1 14 all inspection Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:53:28 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:53:28 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:54:16 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 2:55:19 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:05:29 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:11:09 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:28:17 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:28:39 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:32:11 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:32:19 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:32:22 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:32:44 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:34:12 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:34:36 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:34:36 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:06 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-20D6 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:27 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-396.750, Y=-71.484 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:45 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.646, Y=68.816 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:36:58 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.113, Y=85.461 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 3:37:33 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:04:59 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000226 00000220 00000007 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:05:58 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:06:40 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:10:54 PM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 9 DieOnTool 1 20 Die Position: BOXPOS PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:17:13 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:21:41 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:22:05 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:22:35 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:39:47 PM</time>
+    <messageString>V02 88d1002a 00000000 1 00000220 00000220 00000001 0 12 AfterSealing 1 23 Pocket Position: BOXPOS 2 15 PocketNo.(6646) Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:48:57 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:51:17 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:52:32 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:53:01 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:53:40 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:54:21 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:54:56 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:59:09 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 4:59:34 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:00:05 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:01:17 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:01:35 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:04:54 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:09:11 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:09:35 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:10:00 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:11:08 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:14:31 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:15:48 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:20:29 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:30:12 PM</time>
+    <messageString>V02 88020034 00000000 1 00000220 00000220 00000001 Indexer.IndexerUnitXYR.AxisX</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:34:50 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 DieOnTool 1 14 all inspection PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:38:57 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:39:24 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:43:35 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:44:29 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:44:37 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:46:05 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:46:27 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:46:27 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:48:23 PM</time>
+    <messageString>V02 88030202 00000000 1 00000220 00000220 00000001 Wafertable.BarcodeReader</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:49:01 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000222 00000220 00000003 0 11 F05YU5-21D1 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:49:10 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000224 00000220 00000005 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-396.482, Y=-71.252 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:49:37 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000225 00000220 00000006 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.371, Y=68.977 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:50:19 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000226 00000220 00000007 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-364.847, Y=85.712 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:50:40 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:51:28 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:52:03 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:52:29 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:53:01 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:53:15 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:53:58 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:53:58 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:54:45 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000224 00000220 00000005 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:55:06 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:55:41 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:56:24 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:56:53 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:57:40 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:57:57 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000222 00000220 00000003 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 5:59:21 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:10:26 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 DieOnTool 1 34 Chip Outs (corners): FINDDIEDEFECT PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:20:44 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:23:55 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:38:31 PM</time>
+    <messageString>V02 88d3001c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:42:00 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:44:29 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:49:25 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 6:53:31 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000220 00000220 00000001 0 9 SideWall2 1 62 Contour search and Back Side Chipping detection: FINDDIEDEFECT PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:21:26 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:21:58 PM</time>
+    <messageString>V02 88d9002e 00000000 1 00000221 00000220 00000002 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:28:32 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:29:45 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:53:36 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:54:04 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:54:08 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:56:04 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:57:07 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000220 00000220 00000002 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:57:07 PM</time>
+    <messageString>V02 88040005 00000000 1 00000221 00000220 00000002 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:58:17 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-22C4 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:58:38 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-396.921, Y=-70.929 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:59:06 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.620, Y=69.092 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 7:59:30 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.076, Y=85.710 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:00:23 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:15:46 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:16:43 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:17:20 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:29:30 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:42:22 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:58:06 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000222 00000220 00000003 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:58:13 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000220 00000220 00000002 PickWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 8:58:14 PM</time>
+    <messageString>V02 48d20003 00000000 1 00000221 00000220 00000002 PlaceWheel</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:04:28 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:10:48 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:11:28 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:12:14 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:17:44 PM</time>
+    <messageString>V02 88d9002c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:24:06 PM</time>
+    <messageString>V02 88d3001c 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:28:11 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:29:24 PM</time>
+    <messageString>V02 88da0002 00000000 1 00000222 00000220 00000003 Indexer.CoverTape</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:56:03 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:56:13 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:56:17 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:58:09 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:59:05 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 9:59:06 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:00:46 PM</time>
+    <messageString>V02 88d0001c 00000000 1 00000220 00000220 00000001 Wafertable.ExpansionDrive.StrokeMovementCyl</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:01:37 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-23B7 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:01:59 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-396.240, Y=-70.428 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:02:35 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-398.247, Y=69.800 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:03:23 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-368.198, Y=87.204 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 10:41:41 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000226 00000220 00000007 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:00:34 PM</time>
+    <messageString>V02 88d1002b 00000000 1 00000228 00000220 00000009 0 9 PostPlace 1 14 all inspection Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:00:53 PM</time>
+    <messageString>V02 88d90035 00000000 1 00000220 00000220 00000001 0 5 Place Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:05:42 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000220 00000220 00000001 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:07:42 PM</time>
+    <messageString>V02 88020034 00000000 1 00000220 00000220 00000001 Indexer.IndexerUnitXYR.AxisX</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:21:12 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000220 00000220 00000001 Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:40:12 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000222 00000220 00000003 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:47:15 PM</time>
+    <messageString>V02 48d00001 00000000 1 00000220 00000220 00000001 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:47:57 PM</time>
+    <messageString>V02 08d00007 00000000 1 00000222 00000220 00000003 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:48:02 PM</time>
+    <messageString>V02 88d1002d 00000000 1 00000223 00000220 00000004 0 9 PostPlace Indexer</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:49:49 PM</time>
+    <messageString>V02 08d10002 00000000 1 00000220 00000220 00000001 Main</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:51:05 PM</time>
+    <messageString>V02 88d0001d 00000000 1 00000222 00000220 00000004 Wafertable.Crosstable.Opener</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:51:05 PM</time>
+    <messageString>V02 88040005 00000000 1 00000223 00000220 00000004 Wafertable</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:52:58 PM</time>
+    <messageString>V02 09f70002 00000000 1 00000220 00000220 00000001 0 11 F05YU5-24B2 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:53:21 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000221 00000220 00000002 0 91 SearchReferenceDie, RefDie 1 found at (col,row)=(116,20), position at X=-397.423, Y=-71.928 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:53:43 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000222 00000220 00000003 0 91 SearchReferenceDie, RefDie 2 found at (col,row)=(116,172), position at X=-395.853, Y=68.281 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:54:22 PM</time>
+    <messageString>V02 09f70001 00000000 1 00000223 00000220 00000004 0 96 MoveToFirstGoodDie, first good die found at (col,row)=(74,190), position at X=-365.246, Y=84.799 Wafertable.Wafermapping</messageString>
+  </message>
+  <message type="machine">
+    <time>10/15/2020 11:57:17 PM</time>
+    <messageString>V02 48d90001 00000000 1 00000224 00000220 00000005 Indexer</messageString>
+  </message>
+</messages>

@@ -1,0 +1,9 @@
+ftp_server_address = '10.185.75.111'
+ftp_server_port = 21
+ftp_server_username = 'dps'
+ftp_server_password = '035982000'
+#gcp_service_account_json_file_path = 'C:\\ATT_BDA\\machine_log\\att-bda-d9fe216e6997.json'
+ftp_target_server_address = '10.185.75.111'
+ftp_target_server_port = 21
+ftp_target_server_username = 'dps'
+ftp_target_server_password = '035982000'

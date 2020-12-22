@@ -1,0 +1,33 @@
+0,20/06/22,16:54:10,G0660,Some item(s) passed the PM period.  Make sure the maintenance scheduler.
+1,20/06/22,16:54:50,G1002,Warming up of the machine stopped.                                      
+2,20/06/22,19:59:34,G0103,Data updated.                                                           
+3,20/06/22,20:22:35,A3017,Host comm: Start error. Machine is not in "READY" state.              86
+4,20/06/22,20:22:38,A3017,Host comm: Start error. Machine is not in "READY" state.              86
+5,20/06/22,20:22:41,A3017,Host comm: Start error. Machine is not in "READY" state.              86
+6,20/06/22,20:22:45,A3017,Host comm: Start error. Machine is not in "READY" state.              86
+7,20/06/22,20:22:48,G0002,Initialization of all axes started.                                     
+8,20/06/22,20:24:47,G0003,Initialization of all axes normally completed.                          
+9,20/06/22,20:25:00,G1000,Warming up of the machine started.                                      
+10,20/06/22,20:25:58,A3017,Host comm: Start error. Machine is not in "READY" state.              86
+11,20/06/22,20:26:03,G1002,Warming up of the machine stopped.                                      
+12,20/06/22,20:26:03,G0103,Data updated.                                                           
+13,20/06/22,20:26:10,G0005,Full auto operation started.                                            
+14,20/06/22,20:44:55,G0013,Replace Cassette 2.                                                     
+15,20/06/22,20:45:24,G0006,Full auto operation ended.                                              
+16,20/06/22,20:45:25,G1004,Warming up after full auto started.                                     
+17,20/06/22,20:48:02,G0103,Data updated.                                                           
+18,20/06/22,20:48:07,G0660,Some item(s) passed the PM period.  Make sure the maintenance scheduler.
+19,20/06/22,20:48:14,G1002,Warming up of the machine stopped.                                      
+20,20/06/22,20:48:14,G0103,Data updated.                                                           
+21,20/06/22,20:48:20,G0005,Full auto operation started.                                            
+22,20/06/22,21:08:38,G0013,Replace Cassette 2.                                                     
+23,20/06/22,21:09:04,G0006,Full auto operation ended.                                              
+24,20/06/22,21:09:04,G1004,Warming up after full auto started.                                     
+25,20/06/22,21:14:20,G0103,Data updated.                                                           
+26,20/06/22,21:15:18,G1002,Warming up of the machine stopped.                                      
+27,20/06/22,21:15:18,G0103,Data updated.                                                           
+28,20/06/22,21:15:25,G0005,Full auto operation started.                                            
+29,20/06/22,21:16:08,G0103,Data updated.                                                           
+30,20/06/22,22:37:01,G0013,Replace Cassette 2.                                                     
+31,20/06/22,22:37:56,G0103,Data updated.                                                           
+32,20/06/22,23:38:09,G0014,Replace Cassette 1.                                                     
